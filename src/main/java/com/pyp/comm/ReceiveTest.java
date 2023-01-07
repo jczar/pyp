@@ -1,4 +1,4 @@
-package com.pyp.broker;
+package com.pyp.comm;
 
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
